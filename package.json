@@ -1,0 +1,19 @@
+{
+  "name": "nitt-institute",
+  "version": "1.0.0",
+  "description": "National Institute of Technical Training (NITT) - Corporate Website & Backend",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "dev": "node --watch backend/src/server.js"
+  },
+  "keywords": [
+    "vocational-training",
+    "computer-courses",
+    "bootstrap5",
+    "supabase",
+    "express"
+  ],
+  "author": "National Institute of Technical Training",
+  "license": "ISC"
+}
